@@ -1,6 +1,6 @@
 package teste;
 
-//Versao 1
+//Versao 2
 public class Teste {
 
 }
